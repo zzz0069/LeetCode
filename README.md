@@ -79,8 +79,8 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [C++](./C++/binary-gap.cpp) [Python](./Python/binary-gap.py) | _O(1)_ | _O(1)_ | Easy ||
 
 ## Array
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| Submission    | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----| ------------- |
 015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [C++](./C++/3sum.cpp) [Python](./Python/3sum.py)       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
 016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./C++/3sum-closest.cpp) [Python](./Python/3sum-closest.py) | _O(n^2)_       | _O(1)_          | Medium         || Two Pointers
 018| [4 Sum](https://leetcode.com/problems/4sum/)         | [C++](./C++/4sum.cpp) [Python](./Python/4sum.py)        | _O(n^3)_    | _O(1)_    | Medium         || Two Pointers
@@ -121,7 +121,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 370| [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./C++/range-addition.cpp) [Python](./Python/range-addition.py)  | _O(k + n)_ |  _O(1)_ | Medium         |📖||
 384| [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./C++/shuffle-an-array.cpp) [Python](./Python/shuffle-an-array.py)  | _O(n)_ |  _O(n)_ | Medium         | EPI ||
 396| [Rotate Function](https://leetcode.com/problems/rotate-function/) | [C++](./C++/rotate-function.cpp) [Python](./Python/rotate-function.py)  | _O(n)_ |  _O(1)_ | Easy         |||
-412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./C++/fizz-buzz.cpp) [Python](./Python/fizz-buzz.py)  | _O(n)_ |  _O(1)_ | Easy         ||Accepted|
+412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./C++/fizz-buzz.cpp) [Python](./Python/fizz-buzz.py)  | _O(n)_ |  _O(1)_ | Easy         |||Accepted|
 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./C++/third-maximum-number.cpp) [Python](./Python/third-maximum-number.py)  | _O(n)_ |  _O(1)_ | Easy         ||||
 419| [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./C++/battleships-in-a-board.cpp) [Python](./Python/battleships-in-a-board.py)  | _O(m * n)_ |  _O(1)_ | Medium         |||
 422| [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | [C++](./C++/valid-word-square.cpp) [Python](./Python/valid-word-square.py)  | _O(m * n)_ |  _O(1)_ | Easy         |📖||
